@@ -1,4 +1,4 @@
-Hi there 👋
+<b>Hi there </b> 👋
 
 <!--
 **1ranya/1ranya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
