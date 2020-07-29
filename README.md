@@ -1,6 +1,7 @@
-<b>Hi there </b> 👋
+<h1 style="Center">Hi there </h1> 👋
 <div style="background-image: url('24637.png');">
-<a href="https://www.commentcamarche.net/contents/496-liens-hypertextes-et-ancres-html" c> Link</a>
+<link rel="stylesheet" type="text/css" href="index.css">
+<a href="https://www.commentcamarche.net/contents/496-liens-hypertextes-et-ancres-html">Link</a>
 <!--
 **1ranya/1ranya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
