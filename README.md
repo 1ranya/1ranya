@@ -4,7 +4,7 @@
         <link rel="stylesheet" type="text/css" href="index.css">
     </head>
     <body>
-        <h1 style="Center">Hi there </h1> 👋
+        <h1 class="Center">Hi there </h1> 👋
         <div style="background-image: url('24637.png');">
         <a href="https://www.commentcamarche.net/contents/496-liens-hypertextes-et-ancres-html">Link</a>
     </body>
