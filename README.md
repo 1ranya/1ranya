@@ -9,7 +9,7 @@
         <div style="background-image: url('24637.png');">
     </body>
 </html> -->
-<h1 class="Center" style="text-align: center; color: blue;">Hi there </h1> 👋
+<h1 class="Center" style="text-align: center; color: blue;">"<Salut/>" 🙋🏻</h1>
 
 <!--
 **1ranya/1ranya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
