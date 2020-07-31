@@ -11,7 +11,7 @@
 </html> -->
 <h1 class="Center" style="text-align: center; color: blue;">< Salut /> || < Hello />  🙋🏻</h1>
 <h5> Ici Je vous partage mes projets personnels réalisés, j'espère que ça vous aide </h5>
-<h5> Here I share my personnal projects, i hope it can helps </h5>
+<q> Here I share my personnal projects, i hope it can helps </q>
 
 <!--
 **1ranya/1ranya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
